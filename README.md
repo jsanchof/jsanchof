@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Sancho</h1>
+<h1 align="center">Hi there👋, I'm Jose Sancho</h1>
 <h3 align="center">A passionate Full-Stack developer and SRE from Costa Rica</h3>
 
 - 🔭 I’m currently working on **GastroClick**
